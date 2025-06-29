@@ -54,7 +54,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/DevMuhammadUmar/DevMuhammadUmar/output/snake.svg" alt="Snake animation" />
+
 
 
 
