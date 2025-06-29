@@ -1,16 +1,8 @@
 <table>
   <tr>
-    <td>
-      <h1>Hey there 👋</h1>
-      <h3>👩‍💻 About Me</h3>
-      <p>
-        I'm Muhammad Umar from Lahore, Pakistan.<br>
-        🔭 I’m a Software Engineer<br>
-        📚 I'm currently learning mobile app development<br>
-        ⚡ In my free time, I explore new tech, build side projects, and do DSA
-      </p>
+    <td>  <img src="https://github-readme-stats.vercel.app/api?username=DevMuhammadUmar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="200" alt="stats graph" />
     </td>
-    <td width="250">
+    <td width="350" align="center">
       <img height="250" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
     </td>
   </tr>
@@ -50,15 +42,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
 
 <img src="https://raw.githubusercontent.com/DevMuhammadUmar/DevMuhammadUmar/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app?username=DevMuhammadUmar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+
+<div align="left">
+   <img src="https://github-profile-trophy.vercel.app?username=DevMuhammadUmar&theme=gruvbox&column=-1&row=1&margin-w=6&margin-h=6&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
 </div>
+
 
 <br clear="both">
 
