@@ -1,8 +1,8 @@
 
 <table class="poppins">
   <tr>
-    <td width=60%>
-      <h1>Hi there, I'm <span style="color:#fabd2f;">Muhammad Umar</span> 👋                                                   </h1>
+    <td width=65%>
+      <h1>Hi there, I'm <span style="color:#fabd2f;">Muhammad Umar</span>👋 </h1>
       <p>
         <strong>🚀 Software Engineer</strong><br />
         📱 Passionate about <strong>Mobile App Development</strong><br />
