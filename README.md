@@ -1,24 +1,24 @@
-<div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Muhammad Umar from Lahore, Pakistan.<br>🔭 I’m  a Software Engineer<br>📚 I'm currently learning mobile app development <br>⚡ In my free time, I explore new tech, build side projects, and do DSA</p>
+<table>
+  <tr>
+    <td>
+      <h1>Hey there 👋</h1>
+      <h3>👩‍💻 About Me</h3>
+      <p>
+        I'm Muhammad Umar from Lahore, Pakistan.<br>
+        🔭 I’m a Software Engineer<br>
+        📚 I'm currently learning mobile app development<br>
+        ⚡ In my free time, I explore new tech, build side projects, and do DSA
+      </p>
+    </td>
+    <td width="250">
+      <img height="250" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
+    </td>
+  </tr>
+</table>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -56,20 +56,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevMuhammadUmar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+   <img src="https://github-profile-trophy.vercel.app?username=DevMuhammadUmar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
 
 <br clear="both">
 
 <div align="center">
   <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
-
-###
