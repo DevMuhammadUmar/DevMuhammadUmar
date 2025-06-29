@@ -1,7 +1,7 @@
 
 <table class="poppins">
   <tr>
-    <td width=65%>
+    <td width=60%>
       <h1>Hi there, I'm <span style="color:#fabd2f;">Muhammad Umar</span>👋 </h1>
       <p>
         <strong>🚀 Software Engineer</strong><br />
@@ -13,7 +13,7 @@
         📈 Continuously growing & open to collaboration
       </p>
     </td>
-    <td align="center">
+    <td align="right">
       <img height="280" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="coding animation" />
     </td>
   </tr>
