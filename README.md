@@ -14,7 +14,7 @@
       </p>
     </td>
     <td align="center">
-      <img height="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="coding animation" />
+      <img height="280" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="coding animation" />
     </td>
   </tr>
 </table>
