@@ -1,29 +1,8 @@
-<div align="center">
-  <img height="180" width="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
 
 <div align="center">
-  <a href="www.linkedin.com/in/muhammad-umar-here" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="umarxhere@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+<img width="1188" alt="Black Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/baa48598-a25a-4b5e-8020-32daa16080c3" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DevMuhammadUmar.DevMuhammadUmar&"  />
-</div>
-
-###
-
-<h3 align="left">Hi there, I'm Muhammad Umar👋</h3>
-
-###
 
 <p align="left">🚀 Software Engineer<br>📱 Passionate about Mobile App Development<br>🔁 Exploring Cross-Platform Solutions with Flutter & React Native<br>📚 Learning Data Structures & Algorithms<br>🧠 Always curious about clean code & scalable architecture<br>🌐 Building full-stack projects with MERN stack<br>📈 Continuously growing & open to collaboration</p>
 
