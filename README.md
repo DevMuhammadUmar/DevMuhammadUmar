@@ -4,7 +4,7 @@
 <img width="1584" height="396" alt="Black Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/db656488-1bfe-441a-835b-de5aac09bfc1" />
 </div>
 
-<p align="left">🚀 Software Engineer<br>📱 Passionate about Mobile App Development<br>🔁 Exploring Cross-Platform Solutions with Flutter & React Native<br>📚 Learning Data Structures & Algorithms<br>🧠 Always curious about clean code & scalable architecture<br>🌐 Building full-stack projects with MERN stack<br>📈 Continuously growing & open to collaboration</p>
+<p align="left">🚀 Full Stack Software Engineer<br>🌐 Building full-stack projects with MERN stack<br>🔁 Exploring Cross-Platform Solutions with Flutter <br>📚 Learning Data Structures & Algorithms<br>🧠 Always curious about clean code & scalable architecture<br>📈 Continuously growing & open to collaboration</p>
 
 ###
 
