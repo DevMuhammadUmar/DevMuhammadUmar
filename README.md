@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img width="1584" height="396" alt="Black Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/db656488-1bfe-441a-835b-de5aac09bfc1" />
+<img width="1584" height="396" alt="Black Technology LinkedIn Banner (5)" src="https://github.com/user-attachments/assets/877e6e6b-276d-4685-a684-028cfb52c34b" />
 </div>
 
 <p align="left">🚀 Full Stack Software Engineer<br>🌐 Building full-stack projects with MERN stack<br>🔁 Exploring Cross-Platform Solutions with Flutter <br>📚 Learning Data Structures & Algorithms<br>🧠 Always curious about clean code & scalable architecture<br>📈 Continuously growing & open to collaboration</p>
