@@ -25,9 +25,7 @@
 
 
 
-<div align="left">
-   <img src="https://github-profile-trophy.vercel.app?username=DevMuhammadUmar&theme=gruvbox&column=-1&row=1&margin-w=6&margin-h=6&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
-</div>
+
 
 
 <br clear="both">
